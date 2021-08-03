@@ -24,6 +24,4 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-# CelebrityFaceRecognition
-# CelebrityFaceRecognition
-# CelebrityFaceRecognition
+
